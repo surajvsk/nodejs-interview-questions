@@ -9,4 +9,6 @@
   <li>Node.js has a large and active community of developers, providing ample support if needed.</li>
   <li>Node.js is utilized by many prominent companies, including Netflix, Uber, and PayPal.</li>
 </ul>
-
+<h1>What is the datatype of console?</h1>
+<p>The datatype of console is an object</p>
+<code>typeof(console)</code>
